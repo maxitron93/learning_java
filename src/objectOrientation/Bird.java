@@ -16,10 +16,6 @@ public class Bird extends Animal {
         this.featherless = featherless;
     }
 
-    public void fly(int altitude) {
-        System.out.println(this.name + " is now flying at an altitude of " + altitude + " meters...");
-    }
-
     public void isFeatherless() {
         if (this.featherless) {
             System.out.println("Yes, this bird is featherless");
@@ -27,4 +23,9 @@ public class Bird extends Animal {
             System.out.println("No, this bird has feathers");
         }
     }
+
+    // fly() is commented out because it's being implemented in the Flyable interface
+//    public void fly(int altitude) {
+//        System.out.println(this.name + " is now flying at an altitude of " + altitude + " meters...");
+//    }
 }
