@@ -1,4 +1,4 @@
-package string_class;
+package java_basics;
 
 public class Strings {
 
