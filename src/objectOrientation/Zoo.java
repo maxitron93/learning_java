@@ -9,6 +9,11 @@ public class Zoo {
         badger.walk();
         dog.identify();
         dog.makeNoise();
+
+        Bird parrot = new Bird("Mr Parrot", 26, "Rainbow", 2, 60, false);
+        parrot.isFeatherless();
+        parrot.identify();
+        parrot.fly(1000);
     }
 
 }
