@@ -28,13 +28,13 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.WhileLoops">
-    <configuration name="Earth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientation.Earth" />
+  <component name="RunManager" selected="Application.ForLoops">
+    <configuration name="ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basics.ForLoops" />
       <module name="learning_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientation.*" />
+          <option name="PATTERN" value="java_basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,18 +109,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hello" />
-      <item itemvalue="Application.Earth" />
       <item itemvalue="Application.Zoo" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.WhileLoops" />
+      <item itemvalue="Application.ForLoops" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.WhileLoops" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Earth" />
       </list>
     </recent_temporary>
   </component>
@@ -165,22 +165,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="538" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575870490629" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1575928927247">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1575931052835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575928927247" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1575928927247">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575931052835" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1575931052835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575928927247" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1575928927247">
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575931052835" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1575931052835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575928927247" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1575928927247">
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575931052835" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1575931052835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575928927247" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575931052835" />
     <state x="277" y="54" key="SettingsEditor" timestamp="1575850057671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
