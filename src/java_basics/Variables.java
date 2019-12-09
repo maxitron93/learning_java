@@ -19,6 +19,7 @@ public class Variables {
         System.out.println(x + y);
         System.out.println(sent);
         System.out.println(words);
+        System.out.println(sent + ". " + words);
     }
 
 }
