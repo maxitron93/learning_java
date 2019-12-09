@@ -33,8 +33,6 @@ public class VariablesContinued {
         // Can't use double quotation marks - must be single quotes
         char letter = 'm';
         System.out.println(letter);
-
     }
-
 
 }
