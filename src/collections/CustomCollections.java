@@ -22,6 +22,5 @@ public class CustomCollections {
             System.out.println(vehicle.getString());
         }
 
-
     }
 }
