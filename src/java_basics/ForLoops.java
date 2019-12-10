@@ -16,6 +16,17 @@ public class ForLoops {
             }
         }
 
+        // for each loop
+        int [] values = new int[13];
+        int i = 0;
+        for (int value : values) {
+            values[i] = i + 1;
+            i++;
+        }
+        for (int value : values) {
+            System.out.println(value);
+        }
+
     }
 
     public static void printForwards(String str) {
