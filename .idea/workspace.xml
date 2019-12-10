@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ForLoops">
+  <component name="RunManager" selected="Application.CustomCollections">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="userInput_fileProcessing_errorHandling.Application" />
       <module name="learning_java" />
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dealership" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="car_dealership.Dealership" />
+    <configuration name="CustomCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.CustomCollections" />
       <module name="learning_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="car_dealership.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,18 +109,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ForLoops" />
-      <item itemvalue="Application.Dealership" />
       <item itemvalue="Application.Application" />
       <item itemvalue="Application.ArrayLists" />
       <item itemvalue="Application.LinkedLists" />
+      <item itemvalue="Application.CustomCollections" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForLoops" />
-        <item itemvalue="Application.LinkedLists" />
+        <item itemvalue="Application.CustomCollections" />
         <item itemvalue="Application.ArrayLists" />
+        <item itemvalue="Application.LinkedLists" />
+        <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="Application.Dealership" />
       </list>
     </recent_temporary>
   </component>
@@ -169,22 +169,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="517" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575935745113" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1575945189592">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1575946827089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575945189592" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1575945189592">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575946827089" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1575946827089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575945189592" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1575945189592">
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575946827089" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1575946827089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575945189592" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1575945189592">
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575946827089" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1575946827089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575945189592" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575946827089" />
     <state x="277" y="54" key="SettingsEditor" timestamp="1575850057671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -197,9 +197,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575943453530" />
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1575944779063">
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1575946265019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575944779063" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1575946265019" />
   </component>
 </project>

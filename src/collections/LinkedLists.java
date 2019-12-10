@@ -2,6 +2,9 @@ package collections;
 
 import java.util.LinkedList;
 
+// The Java collections framework is a set of classes and interfaces that implement commonly reusable collection data structures.
+// // Although referred to as a framework, it works in a manner of a library.
+
 public class LinkedLists {
 
     public static void main(String[] args) {
@@ -20,7 +23,6 @@ public class LinkedLists {
         for (int number: numbers) {
             System.out.println(number);
         }
-
 
     }
 

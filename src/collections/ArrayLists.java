@@ -36,6 +36,20 @@ public class ArrayLists {
         String strItem = sentences.get(1); // No need to cast as string since the ArrayList<String> only accepts Strings
         System.out.println(strItem);
 
+        // Iterating over an array list
+        ArrayList<String> animals = new ArrayList<String>();
+        animals.add("cat");
+        animals.add("bird");
+        animals.add("dog");
+        animals.add("frog");
+        // old way
+        for (int i = 0; i < animals.size(); i++) {
+            System.out.println(animals.get(i));
+        }
+        // for-each loop
+        for(String animal : animals) {
+            System.out.println(animal);
+        }
 
     }
 
